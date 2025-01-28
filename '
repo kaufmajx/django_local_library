@@ -168,13 +168,4 @@ cython_debug/
 #.idea/
 
 # PyPI configuration file
-
-
-
-# Text backup files
-*.bak
-
-
-*.sqlite3
-# Database
 .pypirc
